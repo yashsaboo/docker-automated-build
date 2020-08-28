@@ -4,4 +4,4 @@ LABEL version="1.0.1"
 
 ENV REFRESHED_AT=2020-27-08
 
-COPY index.html /usr/share/nginx/html/index.html
+COPY index2.html /usr/share/nginx/html/index.html
